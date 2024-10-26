@@ -1,0 +1,13 @@
+tensortrade
+pandas_ta
+torch
+ray[tune]
+ray[default]
+yfinance
+scikit-learn
+gymnasium
+dm_tree
+typer
+opencv-python
+lz4
+stable-baselines3
